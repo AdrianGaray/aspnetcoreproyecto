@@ -2144,3 +2144,5 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 bbe3961dde4d43ff6091a71b15e498403274545b
+
+.vs/
